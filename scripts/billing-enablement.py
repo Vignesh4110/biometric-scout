@@ -11,7 +11,7 @@ from google.api_core.client_options import ClientOptions
 SUFFIX_PATTERN = re.compile(r"-\d{12}$")
 
 
-# --- No changes to the functions in this section ---
+# --- No changes to the functions in this section
 
 
 def get_project_id_from_file():
